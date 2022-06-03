@@ -17,3 +17,17 @@ img {
   max-width: 100%;
 }
 
+.timer{
+  display: flex;
+}
+
+.value{
+  display: block;
+  margin-right: 30px;
+  font-size: 40px;
+}
+
+.label{
+  margin-right: 10px;
+    font-size: 20px;
+}
